@@ -1,0 +1,31 @@
+{
+  "name": "storage-incentives-contracts",
+  "version": "0.1.0",
+  "description": "Storage incentives contracts for Swarm",
+  "main": "index.js",
+  "repository": "git@github.com:paxthemax/storage-incentives-contracts.git",
+  "author": "Pavle Batuta <pavle@batuta.xyz>",
+  "license": "MIT",
+  "devDependencies": {
+    "@ethereum-waffle/chai": "^3.1.1",
+    "@ethersproject/wallet": "^5.0.6",
+    "@nomiclabs/buidler": "^1.4.8",
+    "@typescript-eslint/eslint-plugin": "^4.5.0",
+    "@typescript-eslint/parser": "^4.5.0",
+    "buidler-deploy": "^0.6.0-beta.29",
+    "buidler-ethers-v5": "^0.2.3",
+    "chai": "^4.2.0",
+    "cross-env": "^7.0.2",
+    "dotenv": "^8.2.0",
+    "eslint": "^7.11.0",
+    "eslint-config-prettier": "^6.13.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "ethers": "^5.0.18",
+    "mocha": "^8.2.0",
+    "prettier": "^2.1.2",
+    "prettier-plugin-solidity": "^1.0.0-alpha.59",
+    "solidity-coverage": "^0.7.11",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.3"
+  }
+}

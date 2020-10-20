@@ -1,0 +1,10 @@
+node_modules
+
+deployments
+artifacts
+cache
+coverage
+
+*.yaml
+*.json
+
